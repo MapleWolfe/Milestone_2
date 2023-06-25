@@ -1,0 +1,2 @@
+This folder has models, evaluation metrics and more on Kmeans without applying standardization or PCA.
+DIRECTLY on the features from feature extraction notebook
